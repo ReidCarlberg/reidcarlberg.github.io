@@ -52,7 +52,10 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://paintgem.com/ 
 * https://flutterflyers.com/products/flutter-flyers-magic-butterfly
 * https://thewoobles.com/collections/minecraft
-* https://www.klydoclock.com/pages/gift-perfect 
+
+### Specialty Clocks
+* https://www.klydoclock.com/pages/gift-perfect
+* https://www.authorclock.com/
 
 ### Games & Mysteries & Puzzles
 * https://puzzlingpursuits.com/products/the-fifth-column
