@@ -2,7 +2,7 @@
 I like the browsing experience for retail, so I've compiled a list of things I might be interested in and am sharing them in here in case this list is also helpful to you.
 
 ### Electronic Kits
-* (https://www.sunfounder.com/products/raspberry-pi-robot-car-kit-picar-x)
+* https://www.sunfounder.com/products/raspberry-pi-robot-car-kit-picar-x
 * https://picobricks.com/products/solar-tracker-robot 
 * https://circuitmess.com/ 
 * https://www.crunchlabs.com/products/hack-pack-subscription
