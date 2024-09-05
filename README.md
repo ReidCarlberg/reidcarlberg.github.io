@@ -27,7 +27,8 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 
 ### Toy Kits 
 * https://www.rokronline.com/products/rokr-marble-spaceport-marble-run-3d-wooden-puzzle-lgc01 
-* https://www.wooden-town.com/collections/thebest-wooden-diy-3d-puzzles 
+* https://www.wooden-town.com/collections/thebest-wooden-diy-3d-puzzles
+* https://gamernostalgia.com/ 
 
 ### Little Printers
 * https://printpod.co/products/buy 
@@ -57,6 +58,9 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://findersseekers.com/
 * https://oddpieces.com/ 
 
+### Get Organized
+* https://inkandvolt.com/products/ink-volt-dashboard-spiral-deskpad
+  
 ### Amazing these exist
 * https://hubmanchubgirl.store/pages/bee-positive-advent-calendar
 * https://www.cookie-happyhours.com/products/anxiety-bookshelf-shake-away-your-anxiety
